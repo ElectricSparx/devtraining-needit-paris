@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Log: </description>
+        <display_name>Log</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <snapshot/>
+        <step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 22:08:15</sys_created_on>
+        <sys_id>6561becd1b59e0106c7d31d7dc4bcb51</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_6561becd1b59e0106c7d31d7dc4bcb51</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 22:08:22</sys_updated_on>
+        <table/>
+        <test display_value="When needed - Today">7c517acd1b59e0106c7d31d7dc4bcbdb</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=6561becd1b59e0106c7d31d7dc4bcb51"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>6561becd1b59e0106c7d31d7dc4bcb51</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 22:08:15</sys_created_on>
+        <sys_id>a161becd1b59e0106c7d31d7dc4bcb52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 22:08:15</sys_updated_on>
+        <value/>
+        <variable display_value="">523c79985f30220012b44adb7f46663a</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>6837f6abdbc3ff8491232f17d49619c2</instance_id>
+        <instance_name>dev91383</instance_name>
+        <name>sys_atf_step_6561becd1b59e0106c7d31d7dc4bcb51</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Log: </description><display_name>Log</display_name><inputs/><mugshots_cache_json/><notes/><order>3</order><snapshot/><step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-23 22:08:15</sys_created_on><sys_id>6561becd1b59e0106c7d31d7dc4bcb51</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Log</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_6561becd1b59e0106c7d31d7dc4bcb51</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-23 22:08:22</sys_updated_on><table/><test display_value="When needed - Today">7c517acd1b59e0106c7d31d7dc4bcbdb</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=6561becd1b59e0106c7d31d7dc4bcb51"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>6561becd1b59e0106c7d31d7dc4bcb51</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-23 22:08:15</sys_created_on><sys_id>a161becd1b59e0106c7d31d7dc4bcb52</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-23 22:08:15</sys_updated_on><value/><variable display_value="">523c79985f30220012b44adb7f46663a</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-1040410351</payload_hash>
+        <record_name>Log</record_name>
+        <reverted_from/>
+        <source>136ae6891b59e0106c7d31d7dc4bcb91</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 22:08:22</sys_created_on>
+        <sys_id>5361becd1b59e0106c7d31d7dc4bcb87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17691a55c830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 22:08:22</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>9b61becde059e01096987870782c5986</update_guid>
+        <update_guid_history>9b61becde059e01096987870782c5986:-1040410351,b561becdc759e010e57975230b8dac53:2135520210</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 22:08:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>0f41c960fa964269a6471bc593a004b1</sys_id>
+        <sys_metadata>6561becd1b59e0106c7d31d7dc4bcb51</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_6561becd1b59e0106c7d31d7dc4bcb51</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_6561becd1b59e0106c7d31d7dc4bcb51">5361becd1b59e0106c7d31d7dc4bcb87</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 22:08:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
